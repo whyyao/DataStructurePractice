@@ -1,0 +1,11 @@
+10
+insert 1
+find 1
+insert 3
+insert 5
+insert 2
+insert 6
+insert 6
+delete 7
+delete 1
+print

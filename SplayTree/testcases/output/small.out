@@ -1,0 +1,24 @@
+item 5 inserted
+item 8 inserted
+item 6 inserted
+item 7 inserted
+item 2 inserted
+item 3 inserted
+item 4 inserted
+item 9 inserted
+item 10 inserted
+item 1 inserted
+item 9 found
+item 6 deleted
+item 2 found
+item 1 deleted
+item 4 found
+item 3 found
+item 5 found
+item 10 found
+item 8 found
+item 7 deleted
+5
+4, 8
+3, 9
+2, 10

@@ -1,0 +1,12 @@
+item 1 inserted
+item 1 found
+item 3 inserted
+item 5 inserted
+item 2 inserted
+item 6 inserted
+item 6 not inserted; already present
+item 7 not deleted; not present
+item 1 deleted
+5
+2, 6
+3

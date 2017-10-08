@@ -1,0 +1,12 @@
+97
+10
+insert 5
+insert 2
+insert 8
+insert 3
+delete 7
+insert 5
+delete 5
+deleteMax
+lookup 8
+print

@@ -1,0 +1,22 @@
+97
+20
+insert 4
+insert 3
+insert 5
+insert 17
+insert 7
+insert 15
+insert 9
+insert 19
+insert 9
+lookup 9
+lookup 3
+lookup 9
+lookup 3
+lookup 5
+lookup 2
+lookup 15
+lookup 17
+lookup 12
+lookup 4
+print
